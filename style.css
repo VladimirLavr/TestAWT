@@ -58,6 +58,17 @@
     transform: translate(11%, 44%);;
 }
 
-.btn {
-    min-width: 132px;
+.btn-success {
+    width: 120px;
+    padding: 4px;
+}
+
+.btn-danger {
+    width: 80px;
+    padding: 4px;
+}
+
+.btn-warning {
+    width: 120px;
+    padding: 4px;
 }
